@@ -31,7 +31,7 @@
 
 ### Option 1: Direct download (recommended)
 
-Download the app for your platform.
+Download the app for your platform!
 
 <a href="https://somiibo.com/download?download=windows"><img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTAgOTMuN2wxODMuNi0yNS4zIDAgMTc3LjQtMTgzLjYgMCAwLTE1Mi4xek0wIDQxOC4zbDE4My42IDI1LjMgMC0xNzUuMi0xODMuNiAwIDAgMTQ5Ljl6bTIwMy44IDI4bDI0NC4yIDMzLjcgMC0yMTEuNi0yNDQuMiAwIDAgMTc3Ljl6bTAtMzgwLjZsMCAxODAuMSAyNDQuMiAwIDAtMjEzLjgtMjQ0LjIgMzMuN3oiLz48L3N2Zz4=" alt="Windows"></a>&nbsp;
 <a href="https://somiibo.com/download?download=macos"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"></a>&nbsp;
